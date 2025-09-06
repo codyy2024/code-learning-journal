@@ -1,5 +1,5 @@
 # code-learning-journal
-**My journey from a complete coding newbie to completing the Full Stack Developer Curriculum on freeCodeCamp.**
+**WELCOME, to my journey from a complete coding newbie to completing the Full Stack Developer Curriculum on freeCodeCamp.**
 
 When I started this curriculum, I'm working as a CRM Campaign Manager at a Data & CRM technical consultancy agency, and working towards a more technical role **Technical Campaign Manager**.
 
