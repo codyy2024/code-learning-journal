@@ -83,3 +83,19 @@ End result
 ```
 your daily task/learnings go here
 ```
+
+---
+
+Suggestions for courses:
+1. li1
+      > 1st level notes go here
+      > > 2nd level notes go here
+      > > > 3rd level notes go here
+2. li2
+      > 1st level notes go here
+      > > 2nd level notes go here
+      > > > 3rd level notes go here
+3. li3
+      > 1st level notes go here
+      > > 2nd level notes go here
+      > > > 3rd level notes go here
