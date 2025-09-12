@@ -1,5 +1,7 @@
 # Day X: XXXX - [your daily course name]
 
+[Main intro paragraph goes here]
+
 Key learning points covered:   
 - [x] item1   
 - [x] item2
@@ -86,7 +88,7 @@ your daily task/learnings go here
 
 ---
 
-Suggestions for courses:
+## <ins>Suggestions for this episode</ins>
 1. li1
       > 1st level notes go here
       > > 2nd level notes go here
