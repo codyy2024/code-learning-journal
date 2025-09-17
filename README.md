@@ -1,11 +1,11 @@
 # code-learning-journal
-**WELCOME, to my journey from a complete coding newbie to completing the Full Stack Developer Curriculum by [freeCodeCamp](https://www.freecodecamp.org/learn/full-stack-developer/).**
+**👏WELCOME, to my 365-day journey from a complete coding newbie to completing the Full Stack Developer Curriculum by [freeCodeCamp](https://www.freecodecamp.org/learn/full-stack-developer/).**
 
 Daily journal is updated [here](https://github.com/codyy2024/code-learning-journal).
 
 When I started this curriculum, I'm working as a CRM Campaign Manager at a Data & CRM technical consultancy agency, and working towards a more technical role **Technical Campaign Manager**.
 
-During the 3 years here I gradually developed the interest in generic technical stuff (e.g., Adobe Campaign workflows) and coding (computer language) - I found myself fascinated by the shear joy of **creating** something from void (well, sort of), and the excitement of documenting, maintaining and **fixing** things.
+During the 3-ish years here I gradually developed the interest in generic technical stuff (e.g., Adobe Campaign workflows) and coding (computer language) - I found myself fascinated by the shear joy of **creating** something from void (well, sort of), and the excitement of documenting, maintaining and **fixing** things.
 
 Previously I've learnt through freeCodeCamp's what's now called "legacy" courses - HTML course (given up half way through) and Python for Everybody (finished but never put into use so almost forgot about everything a week later).
 
