@@ -30,6 +30,6 @@ Syntax:
 - `body`: **content** of HTML document
 - `section`: semantic element to divide content into smaller and meaningful sections
 - `div`: non-semantic element used as a generic container to hold other HTML elements
-- `a`: src, href and target attributes
+- `a`: used to apply links - attributes like `src`, `href` and  `target` attributes
 
 (To be continued tomorrow)
