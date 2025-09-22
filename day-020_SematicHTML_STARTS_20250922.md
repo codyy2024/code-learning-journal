@@ -28,10 +28,11 @@ Most important aspect: use heading elements `h1`, `h2`, `h3` etc.
     - can have multiple
   - and so on
   - should never skip, e.g., directly from `h1` to `h3` (It very makes sense but **WHY**??)
-The right hierarchy is
-- important for accessibility
+
+The right hierarchy
+- is important for accessibility
   - determine how assistive technologies (Screenreaders) parse and announce that web page to the user
-- important for SEO
+- is important for SEO
   - Search engines use automation to parse the content of your web page and determine when and where it should show up in results
-- your HTML may not even be technically valid with incorrect structure
+- mean your HTML may not even be technically valid with incorrect structure
 ## 3. What is the difference between presentational and semantic HTML?
