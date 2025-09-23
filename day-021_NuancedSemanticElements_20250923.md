@@ -20,6 +20,7 @@ Example:
 ### 1.2 `em`
 **Semantic** element to represent a special emphasis to <em>only</em> a few words compared to surrounding text
 
+<br></br>
 <ins>It's important to know that these elements should not be used for presentational purposes only. If you need to display the text in italics, but the text doesn't have a special purpose, style, or meaning in the paragraph, you should use CSS instead.</ins>   
 > Don't quite understand what this <i>actually</i> means
 
@@ -31,7 +32,7 @@ Example:
 ## 2. When to use strong `strong` element vs. bring attention to element
 Visually similar (text is bold), but quite different in meanings.
 ### 2.1 "bring attention to" element i.e. `b` 
-Only draws attention to the text, without indicating the higher level of importance/urgency
+Only draws attention to the text, without indicating the higher level of importance/urgency - **Q**: does this make it "presentational" element?
 > Example: use in summaries or product reviews
 ```
 <p>
@@ -41,7 +42,7 @@ and the <b>EcoClean Vacuum</b> for cleaning. The first two performed well, but t
 ```
 
 ### 2.2 `strong` element
-A semantic HTML element that emphasizes text that is crucial, or urgent.
+A **semantic** HTML element that emphasizes text that is crucial, or urgent.
 > Example: allergy information
 ```
 <p>
