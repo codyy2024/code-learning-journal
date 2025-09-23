@@ -71,3 +71,10 @@ Render:
 <img width="258" height="174" alt="image" src="https://github.com/user-attachments/assets/46b3f0a0-8159-41b9-b321-dab0e41fc61d" />
 
 [Ends 20:12]
+
+## What went well
+N/A
+
+## What didn't go well
+1. Feels like the entire course lacks the real-time typein-result rendering pair, though do appreciate the "lecture" format rather than video as I follow better and find it more efficient when it comes to self-pace
+2. In a way, too much "lecture" with not very beginner-friendly content structure, and no comparison with potential confusion e.g. dl versus ul or ol, or how do we make it more visually appealing as currently the dt and dd alignment/indentation makes it look bad (maybe this will be covered later in this lecture)
