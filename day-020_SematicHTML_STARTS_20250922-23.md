@@ -1,4 +1,4 @@
-# Day 20: Lectures - Importnance of Semantic HTML Part 1
+# Day 20: Lectures - Importnance of Semantic HTML 
 Self-revise before even starting: semantic element in HTML represents an element that has a meaning that human and machine can read/understand easily.
 
 An example of semantic element is `section`, and non-semantic is `div`
@@ -6,6 +6,10 @@ An example of semantic element is `section`, and non-semantic is `div`
 Two immediate questions after reading the lecture summary: 
 1. What is "presentational" HTML?
 2. What does semantic HTML get anything to do with "good structural hierarchy"?
+
+---
+
+Part 1 - finished 22 Sep
 
 ---
 
@@ -35,4 +39,14 @@ The right hierarchy
 - is important for SEO
   - Search engines use automation to parse the content of your web page and determine when and where it should show up in results
 - mean your HTML may not even be technically valid with incorrect structure
+
+---
+
+Part 2 - finished morning of 23 Sep
+
+---
+
 ## 3. What is the difference between presentational and semantic HTML?
+Simply put: presentational elements are mostly deprecated elements that focus on **appearance**, whi8le semantic elements are the best practise in modern days that **describe the content**.
+
+
