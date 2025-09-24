@@ -59,10 +59,10 @@ Example 1:
   </q>
 </p>
 ```
-
 <br></br>
-<br></br>
+\===\
 Render results:
+
 <img width="884" height="274" alt="chrome_goFhCie5Sz" src="https://github.com/user-attachments/assets/125e0266-5ef4-4c49-b85a-2eca8024bb3c" />
 
 
