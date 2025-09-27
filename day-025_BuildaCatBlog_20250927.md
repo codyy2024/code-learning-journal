@@ -12,4 +12,4 @@
 - Unsure about how to use `section` - I mean I know how to use the elements, just not 100% sure what the best practise/meaning behind this
 - Unsure about the Phone, Email, and Address sections in the footer
 - Good that I still have a good grasp of boiletplate and the usage of `figure` and the `img` and `figcaption` elements in it.
-- 
+- Glad the `ul` nad `li` under it comes to life to me while I was writing the blog page outside of freeCodeCamp in Visual Studio Code, but unsure if it sits at the same level as `p`, or needs to sit under `p`
