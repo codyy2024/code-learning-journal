@@ -8,4 +8,7 @@
 
 ----
 
-## 
+- Unsure really where `nav` lives: in the `head` element, or in the `main` element in `body`?
+- Unsure about how to use `section` - I mean I know how to use the elements, just not 100% sure what the best practise/meaning behind this
+- Good that I still have a good grasp of boiletplate and the usage of `figure` and the `img` and `figcaption` elements in it.
+- 
