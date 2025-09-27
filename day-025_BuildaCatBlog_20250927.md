@@ -347,4 +347,4 @@ Maybe it's just me, but I think as this stage, we could go for this learning rou
 
 ===
 
-[Ends 22:12 SUnday 27 Sep 2025]
+[Ends 22:12 Sunday 27 Sep 2025]
