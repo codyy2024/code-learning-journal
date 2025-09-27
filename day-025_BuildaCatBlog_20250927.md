@@ -133,7 +133,7 @@
         <main>
             <h1>The Life of Codes and Corbs in the UK</h1>
             <figure>
-                <img src="https://github.com/user-attachments/assets/64177473-d223-4eaa-8fa0-f35bcf066ee2" alt="A black dog sitting under the sun in the garden" >
+                <img src="https://github.com/user-attachments/assets/575aa619-5d80-4bcf-8e50-e859646557df" alt="A black dog sitting under the sun in the garden" >
                 <figcaption>Scardicat Corby</figcaption>
             </figure>
             <h2>About</h2>
@@ -167,8 +167,8 @@
         </main>
 
         <footer>
-            <p>Phone: <a href="tel:447778274709">447778274709</a></p>
-            <p>Email: <a href="mailto:yi.yang813@gmail.com">yi.yang813@gmail.com</a></p>
+            <p>Phone: <a href="tel:447777777777">447777777777</a></p>
+            <p>Email: <a href="mailto:fake@gmail.com">fake@gmail.com</a></p>
         </footer>
     </body>
 </html>
@@ -176,5 +176,170 @@
 
 What I then updated to:
 ```
-
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>The Life of Codes and Corbs</title>
+    </head>
+    <body>
+        <header>
+            <h1>The Life of Codes and Corbs in the UK</h1>
+            <figure>
+                <img src="https://github.com/user-attachments/assets/575aa619-5d80-4bcf-8e50-e859646557df" alt="A black dog sitting under the sun in the garden" height="560" width="360">
+                <figcaption>Scaredy-cat Corby</figcaption>
+            </figure>
+            <nav>
+                <ul>
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#pawsts">Pawsts</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+            </nav>
+        </header>
+        <main>
+            <section id="about">
+                <h2>About</h2>
+            </section>
+            <p>Codes is a coding newbie <a href="https://codyy2024.github.io/code-learning-journal/" target="_blank">learning to code</a>. Corby is a UK newbie learning to not bark and have a go at every squirrel, bird, cat, fox and pigeon that passes by the fence.</p>
+            <p>Corby is otherwise a lovely, cute and gentle dog, that went through some trauma so had some trusting problems with both human and other dogs. He's come a long way - both geologically from Romania and psychologically since arriving in the UK.</p>
+            <p>I'd like to share and keep a log of the memories of him with us.</p>
+            <section id="pawsts">
+                <h2>Pawsts</h2>
+            </section>
+            <article>
+                <h3>Corby's Arrival Day</h3>
+                <p>He slept on the floor.</p>
+            </article>
+            <article>
+                <h3>Corby's First Couple of Weeks</h3>
+                <p>We slept on the floor with him in turn for a couple of weeks downstairs.</p>
+                <p>He wouldn't pee or poo when it was windy. And there was one time when he woke me up to say "I need to pee", but then couldn't pee because it was too windy and disturbing; Then another night he was too scared by the umbrella I was holding to keep the rain from him. HE also would hide in the rosemary bush and refused to come out or move sometimes.</p>
+            </article>
+            <article>
+                <h3>Corby's first couple of months</h3>
+                <p>Slowly building his confidence.
+                    <ul>
+                        <li>Dog behaviourist;</li>
+                        <li>Jumping onto the sofa;</li>
+                        <li>Took the apple from the coffe table;</li>                 
+                    </ul>
+                </p>
+            </article>
+            <article>
+                <h3>Corby Settling In</h3>
+                <p>Can't rememebr for how long, but was really glad to see Corby coming out of his shell.</p>
+                    <ul>
+                        <li>Showing playfulness;</li>
+                        <li>Showing his belly;</li>
+                        <li>Took the strawberry from the basket in the garden;</li>
+                        <li>First time (we believe) seeing snow</li>
+                    </ul>
+            </article>           
+        </main>
+        <footer>
+            <section id="contact">
+                <h1>Contact</h1>
+            </section>            
+            <address>
+                <p>Phone: <a href="tel:447777777777">447777777777</a></p>
+                <p>Email: <a href="mailto:fake@gmail.com">fake@gmail.com</a></p>
+            </address>
+        </footer>
+    </body>
+</html>
 ```
+
+The `section` bit isn't quite right (but I've left my `p` content & the `ul` as is if you noticed it - two different scenarios and both work, but I think one of them is best practice and it's just HTML being forgiving) so I'e updated it to:
+```
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>The Life of Codes and Corbs</title>
+    </head>
+    <body>
+        <header>
+            <h1>The Life of Codes and Corbs in the UK</h1>
+            <figure>
+                <img src="https://github.com/user-attachments/assets/575aa619-5d80-4bcf-8e50-e859646557df" alt="A black dog sitting under the sun in the garden" height="560" width="360">
+                <figcaption>Scaredy-cat Corby</figcaption>
+            </figure>
+            <nav>
+                <ul>
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#pawsts">Pawsts</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+            </nav>
+        </header>
+        <main>
+            <section id="about">
+                <h2>About</h2>            
+                <p>Codes is a coding newbie <a href="https://codyy2024.github.io/code-learning-journal/" target="_blank">learning to code</a>. Corby is a UK newbie learning to not bark and have a go at every squirrel, bird, cat, fox and pigeon that passes by the fence.</p>
+                <p>Corby is otherwise a lovely, cute and gentle dog, that went through some trauma so had some trusting problems with both human and other dogs. He's come a long way - both geologically from Romania and psychologically since arriving in the UK.</p>
+                <p>I'd like to share and keep a log of the memories of him with us.</p>
+            </section>
+            <section id="pawsts">
+                <h2>Pawsts</h2>            
+                <article>
+                    <h3>Corby's Arrival Day</h3>
+                    <p>He slept on the floor.</p>
+                </article>
+                <article>
+                    <h3>Corby's First Couple of Weeks</h3>
+                    <p>We slept on the floor with him in turn for a couple of weeks downstairs.</p>
+                    <p>He wouldn't pee or poo when it was windy. And there was one time when he woke me up to say "I need to pee", but then couldn't pee because it was too windy and disturbing; Then another night he was too scared by the umbrella I was holding to keep the rain from him. HE also would hide in the rosemary bush and refused to come out or move sometimes.</p>
+                </article>
+                <article>
+                    <h3>Corby's first couple of months</h3>
+                    <p>Slowly building his confidence.
+                        <ul>
+                            <li>Dog behaviourist;</li>
+                            <li>Jumping onto the sofa;</li>
+                            <li>Took the apple from the coffe table;</li>                 
+                        </ul>
+                    </p>
+                </article>
+                <article>
+                    <h3>Corby Settling In</h3>
+                    <p>Can't rememebr for how long, but was really glad to see Corby coming out of his shell.</p>
+                        <ul>
+                            <li>Showing playfulness;</li>
+                            <li>Showing his belly;</li>
+                            <li>Took the strawberry from the basket in the garden;</li>
+                            <li>First time (we believe) seeing snow</li>
+                        </ul>
+                </article>
+            </section>
+        </main>
+        <footer>
+            <section id="contact">
+                <h1>Contact</h1>                       
+                <address>
+                    <p>Phone: <a href="tel:447777777777">447777777777</a></p>
+                    <p>Email: <a href="mailto:fake@gmail.com">fake@gmail.com</a></p>
+                </address>
+            </section>
+    </footer>
+    </body>
+</html>
+```
+
+## What didn't go well
+1. Forgot quite a lot of things
+2. Not familiar with some of the elements as far as the previous episodes are concerned
+
+## What did go well
+1. Boilerplate
+2. `ul`
+3. `figure`
+
+----
+
+## Suggestions
+Maybe it's just me, but I think as this stage, we could go for this learning route when it comes to workshops like this:
+1. Gives an example
+2. You go ahead and create whatever you want to create but similar to the examples in terms of structures
+3. Then we follow the steps for thw workshop
+4. Then we compare and pick the missing pieces.
