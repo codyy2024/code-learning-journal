@@ -1,0 +1,11 @@
+# Day 25: Workshop - Build a Cat Blog Page
+
+## Key topics covered:
+- [x] build an HTML only blog page
+- [x] use semantic elements `main`, `nav`, `article` and `footer` elements
+
+[Big question here: unless my my mempry is completely messed up, I don't think the last three have been covered in much detail. Maybe `footer` was covered specifically and a bit more than the others, but `nav` and `article` were only introduced as part of other topics/elements. So if I'm honest, I'm not that comfortable/confident about this workshop. But let's see.]
+
+----
+
+## 
