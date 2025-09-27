@@ -343,3 +343,8 @@ Maybe it's just me, but I think as this stage, we could go for this learning rou
 2. You go ahead and create whatever you want to create but similar to the examples in terms of structures
 3. Then we follow the steps for thw workshop
 4. Then we compare and pick the missing pieces.
+
+
+===
+
+[Ends 22:12 SUnday 27 Sep 2025]
