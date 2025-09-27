@@ -112,7 +112,7 @@ Renders:(need to learn the [numeric code/HTML entities](https://www.w3schools.co
 ---
 
 ## Suggestions
-1. Explain all that's covered clearly, or link to external sources. OR at least let the learners know you'll cover this later down the line so don't need to worry too much for now.
+1. Explain all that's covered clearly, or link to external sources. OR at least let the learners know they will be covered later down the line so don't need to worry too much for now.
 2. Give thorough examples
 
 
