@@ -63,6 +63,11 @@ End result - again I didn't read the instructions and follow them to write the H
 ```
 Notice that the `img` with no caption, I've still used the `figure` element and wrote the `img` element under it with no `figcaption`. However the render result seems different - the `figure` element seems to indent the whole section under `figure` slightly, while if you put `img` directly after the last `p`, it's not indented. So I've amended the second image to remove `figure` - and it proved me right. 
 
+## Semantic Elements Review
+1. The 15th question could have been a very simple but clear differentiation between `b`, `strong`, `i` and `em` (in the order of the 4 choices of the question)
+   <img width="679" height="339" alt="image" src="https://github.com/user-attachments/assets/808eb9da-d32a-4072-b84e-ab6517b8dbf1" />
+
+
 ## What didn't got well
 
 ## What did go well
