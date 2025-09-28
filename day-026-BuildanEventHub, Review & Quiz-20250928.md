@@ -78,4 +78,4 @@ Notice that the `img` with no caption, I've still used the `figure` element and 
 # Suggestions
 1. Again maybe it's just my personal preference, but the approach of trying to write the HTML without referring to the instrutions first enhance your learnining by focusing on things you missed/got wrong/forgot about.
 
-[Ends 16:01 28 Sep 2025]
+[Ends 16:15 28 Sep 2025]
