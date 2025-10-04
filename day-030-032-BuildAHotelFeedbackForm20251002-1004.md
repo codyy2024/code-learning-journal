@@ -186,6 +186,7 @@ Revisit:
 </html>
 ```
 Still a few things not proficient with:
+- `different `type`: text, email, number, button
 - `value`: I added the value to the `type="text"` input (name, email, other comments) and it shows in the text box when it first loads. So I had to delete them in all three inputs
 - Dropdown: remember it's to do with some `option` things but can't remember how it's done
 - for the "Other Comments" section, I do remember the `textarea` type (I think?) and the `cols` and `rows` bit, but when I did it it's not working
