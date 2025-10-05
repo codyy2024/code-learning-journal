@@ -109,6 +109,10 @@ A few things noticed after reading the instrutions:
 1. it asks to add `id` to `form`, `label`, `h1` and the `p` under `h1` which was not covered in the previous lectures
 2. it asks to add `description`, but where does it go?
 
+Even though i passed it, 
+- i still don't know what these ids are used for?
+- i put the `description` just in the `header` after `p` but not sure what these are used for?
+
 End result after amending following the instructions:   
 ```
 <!DOCCTYPE html>
