@@ -32,6 +32,7 @@ On the web page you are on, right click then click "Inspect"
   > ChatGPT's definition is clearer and less confusing:
   > - It controls how many characters wide the input box appears.
   > - It does not limit how many characters a user can actually type — that’s what maxlength is for.
+  > (Similar to `colspan` in table element.)
 - "`disabled` attribute: used to specify that an input field should be disabled" -- and what does `disabled` render as output in web page to user?
 - "`readonly` attribute: used to specify that an input field is read-only" -- and what does `readonly` render as output in web page to user?
 - `button element`: used to create a clickable button. A button can also have a type attribute, which is used to control the behavior of the button when it is activated. Ex. submit, reset, button.
