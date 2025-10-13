@@ -1,4 +1,4 @@
-# Day 41: Theory - Screen Readers & Large Text / Braille Keyboards
+# Day 41: Theory - Importance Of Accessibility and Good HTML Structure
 
 ## Key topics covered:
 - [x] What are screen readers (and what screen reader are not)
