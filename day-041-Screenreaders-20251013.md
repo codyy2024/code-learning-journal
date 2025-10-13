@@ -3,7 +3,7 @@
 ## Key topics covered:
 - [x] What are screen readers (and what screen reader are not)
 - [ ] Who use screen readers
-- [ ] Screen reader friendiless and chanllenges
+- [ ] Screen reader friendiless and challenges
 
 ## What are screen readers
 Screen readers are assistive technology programs that help blind and visually impaired people use computers and mobile devices, to acess education, work opportunities, and social media
