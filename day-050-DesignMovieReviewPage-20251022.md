@@ -69,12 +69,11 @@ Result following instructions:
 Questions:
 - why `strong` over `b`? Rating is not soemthing important or urgent?!
 - second time i've seen the use of `span` and `aria-hidden` together - need to revisit `span` to start with
-  > `span` is an inline container used to group or style a part of text or inline elements without breaking the flow of content. It has no visual effect by itself — it’s mainly for applying CSS or JavaScript to a specific piece of text. 
-- mized the hiearchy structure of `ul` and `li`
-
+  > `span` is an inline container used to group or style a part of text or inline elements without breaking the flow of content. It has no visual effect by itself — it’s mainly for applying CSS or JavaScript to a specific piece of text.
+- "accessible list" - I don't see how it's got accessibility attributes for the list??
 
 ## What didn't go well
-1. Almost orgot about list
+1. Almost forgot about list and mixed the hiearchy structure of `ul` and `li`
 2. Forgot about `alt` initially
 3. Still don't get the hang of where and how to add accessibility stuff
 
