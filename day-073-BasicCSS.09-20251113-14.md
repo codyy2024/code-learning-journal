@@ -128,7 +128,7 @@ Wrote in VS Code the bones of the HTML and CSS (with a lot of placehodlers)\
         </section>
         <section>
             <address>
-                <p>123 Free COde Camp Drive</p>
+                <p>123 Free Code Camp Drive</p>
             </address>
         </section>
     </footer>
@@ -141,9 +141,9 @@ Renders o-kay-ish for a bone structure\
 
 
 ## What did go well
-1. Not familiar with CSS as so far it'e been only theory, but managed to get the table stuff at least I think 80% right
+1. Not familiar with CSS as so far it's been only theory, but managed to get the table stuff at least I think 80% right
 2. Still got the boilerplace in my mind after not been doing it for so long!
-3. I now try to interprete the "page" into an HTML and CSS POV - good!
+3. I now try to interprete the "page" from an HTML and CSS POV - good starting point despite the knowledge gap!
 
 ## What didn't go well
 
